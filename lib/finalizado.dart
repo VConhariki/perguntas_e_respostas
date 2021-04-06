@@ -30,7 +30,7 @@ class Finalizado extends StatelessWidget {
         MaterialButton(
           onPressed: onRestart,
           child: Text(
-            'Reiniciar?',
+            'Restart?',
             style: TextStyle(fontSize: 18),
           ),
           textColor: Colors.red,
